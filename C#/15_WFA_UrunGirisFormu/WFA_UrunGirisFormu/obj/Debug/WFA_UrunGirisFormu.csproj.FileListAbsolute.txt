@@ -1,0 +1,10 @@
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_UrunGirisFormu\WFA_UrunGirisFormu\bin\Debug\WFA_UrunGirisFormu.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_UrunGirisFormu\WFA_UrunGirisFormu\bin\Debug\WFA_UrunGirisFormu.exe
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_UrunGirisFormu\WFA_UrunGirisFormu\bin\Debug\WFA_UrunGirisFormu.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_UrunGirisFormu\WFA_UrunGirisFormu\obj\Debug\WFA_UrunGirisFormu.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_UrunGirisFormu\WFA_UrunGirisFormu\obj\Debug\WFA_UrunGirisFormu.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_UrunGirisFormu\WFA_UrunGirisFormu\obj\Debug\WFA_UrunGirisFormu.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_UrunGirisFormu\WFA_UrunGirisFormu\obj\Debug\WFA_UrunGirisFormu.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_UrunGirisFormu\WFA_UrunGirisFormu\obj\Debug\WFA_UrunGirisFormu.exe
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_UrunGirisFormu\WFA_UrunGirisFormu\obj\Debug\WFA_UrunGirisFormu.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_UrunGirisFormu\WFA_UrunGirisFormu\obj\Debug\WFA_UrunGirisFormu.Form2.resources

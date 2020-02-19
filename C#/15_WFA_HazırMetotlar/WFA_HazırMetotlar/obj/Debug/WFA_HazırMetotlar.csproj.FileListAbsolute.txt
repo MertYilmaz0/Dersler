@@ -1,0 +1,10 @@
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_HazırMetotlar\WFA_HazırMetotlar\bin\Debug\WFA_HazırMetotlar.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_HazırMetotlar\WFA_HazırMetotlar\bin\Debug\WFA_HazırMetotlar.exe
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_HazırMetotlar\WFA_HazırMetotlar\bin\Debug\WFA_HazırMetotlar.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_HazırMetotlar\WFA_HazırMetotlar\obj\Debug\WFA_HazırMetotlar.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_HazırMetotlar\WFA_HazırMetotlar\obj\Debug\WFA_HazırMetotlar.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_HazırMetotlar\WFA_HazırMetotlar\obj\Debug\WFA_HazırMetotlar.exe
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_HazırMetotlar\WFA_HazırMetotlar\obj\Debug\WFA_HazırMetotlar.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_HazırMetotlar\WFA_HazırMetotlar\obj\Debug\WFA_HazırMetotlar.TarihMetotlari.resources
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_HazırMetotlar\WFA_HazırMetotlar\obj\Debug\WFA_HazırMetotlar.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_HazırMetotlar\WFA_HazırMetotlar\obj\Debug\WFA_HazırMetotlar.Burclar.resources

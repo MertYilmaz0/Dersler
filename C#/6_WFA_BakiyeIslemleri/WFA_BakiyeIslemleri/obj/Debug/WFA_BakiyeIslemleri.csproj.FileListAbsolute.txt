@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\bin\Debug\WFA_BakiyeIslemleri.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\bin\Debug\WFA_BakiyeIslemleri.exe
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\bin\Debug\WFA_BakiyeIslemleri.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\obj\Debug\WFA_BakiyeIslemleri.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\obj\Debug\WFA_BakiyeIslemleri.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\obj\Debug\WFA_BakiyeIslemleri.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\obj\Debug\WFA_BakiyeIslemleri.exe
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\obj\Debug\WFA_BakiyeIslemleri.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\obj\Debug\WFA_BakiyeIslemleri.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\bin\Debug\WFA_BakiyeIslemleri.exe.config
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\bin\Debug\WFA_BakiyeIslemleri.exe
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\bin\Debug\WFA_BakiyeIslemleri.pdb
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\obj\Debug\WFA_BakiyeIslemleri.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\obj\Debug\WFA_BakiyeIslemleri.Form1.resources
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\obj\Debug\WFA_BakiyeIslemleri.Properties.Resources.resources
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\obj\Debug\WFA_BakiyeIslemleri.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\obj\Debug\WFA_BakiyeIslemleri.exe
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_BakiyeIslemleri\WFA_BakiyeIslemleri\obj\Debug\WFA_BakiyeIslemleri.pdb

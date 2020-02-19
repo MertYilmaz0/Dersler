@@ -1,0 +1,14 @@
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\bin\Debug\WFA_Metotlar.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\bin\Debug\WFA_Metotlar.exe
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\bin\Debug\WFA_Metotlar.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\obj\Debug\WFA_Metotlar.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\obj\Debug\WFA_Metotlar.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\obj\Debug\WFA_Metotlar.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\obj\Debug\WFA_Metotlar.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\obj\Debug\WFA_Metotlar.exe
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\obj\Debug\WFA_Metotlar.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\obj\Debug\WFA_Metotlar.Form2.resources
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\obj\Debug\WFA_Metotlar.Form3.resources
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\obj\Debug\WFA_Metotlar.Form4.resources
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\obj\Debug\WFA_Metotlar.Form5.resources
+D:\Sınıflar\YMS 3137\2-Introduction\05.02\WFA_Metotlar\WFA_Metotlar\obj\Debug\WFA_Metotlar.Form6.resources

@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_SwitchCase\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_SwitchCase\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.exe
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_SwitchCase\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.exe
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.pdb
+Z:\HD On My Mac\Yazılım\C#\8_WFA_SwitchCase\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.exe.config
+Z:\HD On My Mac\Yazılım\C#\8_WFA_SwitchCase\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.exe
+Z:\HD On My Mac\Yazılım\C#\8_WFA_SwitchCase\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.pdb
+Z:\HD On My Mac\Yazılım\C#\8_WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\8_WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.Form1.resources
+Z:\HD On My Mac\Yazılım\C#\8_WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\C#\8_WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\C#\8_WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.exe
+Z:\HD On My Mac\Yazılım\C#\8_WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.pdb

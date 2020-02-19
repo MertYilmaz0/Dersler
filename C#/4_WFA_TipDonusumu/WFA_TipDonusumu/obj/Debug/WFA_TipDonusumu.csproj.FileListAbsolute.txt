@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_TipDonusumu\WFA_TipDonusumu\bin\Debug\WFA_TipDonusumu.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_TipDonusumu\WFA_TipDonusumu\bin\Debug\WFA_TipDonusumu.exe
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_TipDonusumu\WFA_TipDonusumu\bin\Debug\WFA_TipDonusumu.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_TipDonusumu\WFA_TipDonusumu\obj\Debug\WFA_TipDonusumu.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_TipDonusumu\WFA_TipDonusumu\obj\Debug\WFA_TipDonusumu.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_TipDonusumu\WFA_TipDonusumu\obj\Debug\WFA_TipDonusumu.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_TipDonusumu\WFA_TipDonusumu\obj\Debug\WFA_TipDonusumu.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_TipDonusumu\WFA_TipDonusumu\obj\Debug\WFA_TipDonusumu.exe
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_TipDonusumu\WFA_TipDonusumu\obj\Debug\WFA_TipDonusumu.pdb
+Z:\Downloads\WFA_TipDonusumu\WFA_TipDonusumu\bin\Debug\WFA_TipDonusumu.exe.config
+Z:\Downloads\WFA_TipDonusumu\WFA_TipDonusumu\bin\Debug\WFA_TipDonusumu.exe
+Z:\Downloads\WFA_TipDonusumu\WFA_TipDonusumu\bin\Debug\WFA_TipDonusumu.pdb
+Z:\Downloads\WFA_TipDonusumu\WFA_TipDonusumu\obj\Debug\WFA_TipDonusumu.csprojAssemblyReference.cache
+Z:\Downloads\WFA_TipDonusumu\WFA_TipDonusumu\obj\Debug\WFA_TipDonusumu.Form1.resources
+Z:\Downloads\WFA_TipDonusumu\WFA_TipDonusumu\obj\Debug\WFA_TipDonusumu.Properties.Resources.resources
+Z:\Downloads\WFA_TipDonusumu\WFA_TipDonusumu\obj\Debug\WFA_TipDonusumu.csproj.GenerateResource.cache
+Z:\Downloads\WFA_TipDonusumu\WFA_TipDonusumu\obj\Debug\WFA_TipDonusumu.exe
+Z:\Downloads\WFA_TipDonusumu\WFA_TipDonusumu\obj\Debug\WFA_TipDonusumu.pdb

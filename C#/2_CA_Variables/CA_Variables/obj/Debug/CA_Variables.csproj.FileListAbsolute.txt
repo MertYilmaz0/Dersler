@@ -1,0 +1,6 @@
+D:\Sınıflar\YMS 3137\2-Introduction\15.01\CA_Variables\CA_Variables\bin\Debug\CA_Variables.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\15.01\CA_Variables\CA_Variables\bin\Debug\CA_Variables.exe
+D:\Sınıflar\YMS 3137\2-Introduction\15.01\CA_Variables\CA_Variables\bin\Debug\CA_Variables.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\15.01\CA_Variables\CA_Variables\obj\Debug\CA_Variables.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\15.01\CA_Variables\CA_Variables\obj\Debug\CA_Variables.exe
+D:\Sınıflar\YMS 3137\2-Introduction\15.01\CA_Variables\CA_Variables\obj\Debug\CA_Variables.pdb

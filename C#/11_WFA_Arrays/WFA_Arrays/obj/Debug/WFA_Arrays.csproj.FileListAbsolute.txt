@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Arrays\WFA_Arrays\bin\Debug\WFA_Arrays.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Arrays\WFA_Arrays\bin\Debug\WFA_Arrays.exe
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Arrays\WFA_Arrays\bin\Debug\WFA_Arrays.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Arrays\WFA_Arrays\obj\Debug\WFA_Arrays.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Arrays\WFA_Arrays\obj\Debug\WFA_Arrays.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Arrays\WFA_Arrays\obj\Debug\WFA_Arrays.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Arrays\WFA_Arrays\obj\Debug\WFA_Arrays.exe
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Arrays\WFA_Arrays\obj\Debug\WFA_Arrays.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Arrays\WFA_Arrays\obj\Debug\WFA_Arrays.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Arrays\WFA_Arrays\bin\Debug\WFA_Arrays.exe.config
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Arrays\WFA_Arrays\bin\Debug\WFA_Arrays.exe
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Arrays\WFA_Arrays\bin\Debug\WFA_Arrays.pdb
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Arrays\WFA_Arrays\obj\Debug\WFA_Arrays.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Arrays\WFA_Arrays\obj\Debug\WFA_Arrays.Form1.resources
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Arrays\WFA_Arrays\obj\Debug\WFA_Arrays.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Arrays\WFA_Arrays\obj\Debug\WFA_Arrays.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Arrays\WFA_Arrays\obj\Debug\WFA_Arrays.exe
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Arrays\WFA_Arrays\obj\Debug\WFA_Arrays.pdb

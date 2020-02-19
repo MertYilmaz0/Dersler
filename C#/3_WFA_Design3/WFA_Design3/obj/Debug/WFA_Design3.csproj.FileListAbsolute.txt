@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Design3\WFA_Design3\bin\Debug\WFA_Design3.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Design3\WFA_Design3\bin\Debug\WFA_Design3.exe
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Design3\WFA_Design3\bin\Debug\WFA_Design3.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Design3\WFA_Design3\obj\Debug\WFA_Design3.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Design3\WFA_Design3\obj\Debug\WFA_Design3.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Design3\WFA_Design3\obj\Debug\WFA_Design3.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Design3\WFA_Design3\obj\Debug\WFA_Design3.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Design3\WFA_Design3\obj\Debug\WFA_Design3.exe
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Design3\WFA_Design3\obj\Debug\WFA_Design3.pdb

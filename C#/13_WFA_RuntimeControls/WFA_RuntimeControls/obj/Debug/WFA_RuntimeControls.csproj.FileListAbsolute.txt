@@ -1,0 +1,11 @@
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RuntimeControls\WFA_RuntimeControls\bin\Debug\WFA_RuntimeControls.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RuntimeControls\WFA_RuntimeControls\bin\Debug\WFA_RuntimeControls.exe
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RuntimeControls\WFA_RuntimeControls\bin\Debug\WFA_RuntimeControls.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.exe
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.Form2.resources
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.Form3.resources

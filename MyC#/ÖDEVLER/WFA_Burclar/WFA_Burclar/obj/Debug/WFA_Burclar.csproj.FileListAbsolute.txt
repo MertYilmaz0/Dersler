@@ -1,0 +1,18 @@
+C:\Users\Mendel\source\repos\WFA_Burclar\WFA_Burclar\bin\Debug\WFA_Burclar.exe.config
+C:\Users\Mendel\source\repos\WFA_Burclar\WFA_Burclar\bin\Debug\WFA_Burclar.exe
+C:\Users\Mendel\source\repos\WFA_Burclar\WFA_Burclar\bin\Debug\WFA_Burclar.pdb
+C:\Users\Mendel\source\repos\WFA_Burclar\WFA_Burclar\obj\Debug\WFA_Burclar.csprojAssemblyReference.cache
+C:\Users\Mendel\source\repos\WFA_Burclar\WFA_Burclar\obj\Debug\WFA_Burclar.Form1.resources
+C:\Users\Mendel\source\repos\WFA_Burclar\WFA_Burclar\obj\Debug\WFA_Burclar.Properties.Resources.resources
+C:\Users\Mendel\source\repos\WFA_Burclar\WFA_Burclar\obj\Debug\WFA_Burclar.csproj.GenerateResource.cache
+C:\Users\Mendel\source\repos\WFA_Burclar\WFA_Burclar\obj\Debug\WFA_Burclar.exe
+C:\Users\Mendel\source\repos\WFA_Burclar\WFA_Burclar\obj\Debug\WFA_Burclar.pdb
+\\vmware-host\Shared Folders\Downloads\WFA_Burclar\WFA_Burclar\bin\Debug\WFA_Burclar.exe.config
+\\vmware-host\Shared Folders\Downloads\WFA_Burclar\WFA_Burclar\bin\Debug\WFA_Burclar.exe
+\\vmware-host\Shared Folders\Downloads\WFA_Burclar\WFA_Burclar\bin\Debug\WFA_Burclar.pdb
+\\vmware-host\Shared Folders\Downloads\WFA_Burclar\WFA_Burclar\obj\Debug\WFA_Burclar.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\WFA_Burclar\WFA_Burclar\obj\Debug\WFA_Burclar.Form1.resources
+\\vmware-host\Shared Folders\Downloads\WFA_Burclar\WFA_Burclar\obj\Debug\WFA_Burclar.Properties.Resources.resources
+\\vmware-host\Shared Folders\Downloads\WFA_Burclar\WFA_Burclar\obj\Debug\WFA_Burclar.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Downloads\WFA_Burclar\WFA_Burclar\obj\Debug\WFA_Burclar.exe
+\\vmware-host\Shared Folders\Downloads\WFA_Burclar\WFA_Burclar\obj\Debug\WFA_Burclar.pdb

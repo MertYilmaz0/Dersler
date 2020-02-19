@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_ForDongusu\WFA_ForDongusu\bin\Debug\WFA_ForDongusu.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_ForDongusu\WFA_ForDongusu\bin\Debug\WFA_ForDongusu.exe
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_ForDongusu\WFA_ForDongusu\bin\Debug\WFA_ForDongusu.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_ForDongusu\WFA_ForDongusu\obj\Debug\WFA_ForDongusu.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_ForDongusu\WFA_ForDongusu\obj\Debug\WFA_ForDongusu.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_ForDongusu\WFA_ForDongusu\obj\Debug\WFA_ForDongusu.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_ForDongusu\WFA_ForDongusu\obj\Debug\WFA_ForDongusu.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_ForDongusu\WFA_ForDongusu\obj\Debug\WFA_ForDongusu.exe
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_ForDongusu\WFA_ForDongusu\obj\Debug\WFA_ForDongusu.pdb
+Z:\HD On My Mac\Yazılım\C#\10_WFA_ForDongusu\WFA_ForDongusu\bin\Debug\WFA_ForDongusu.exe.config
+Z:\HD On My Mac\Yazılım\C#\10_WFA_ForDongusu\WFA_ForDongusu\bin\Debug\WFA_ForDongusu.exe
+Z:\HD On My Mac\Yazılım\C#\10_WFA_ForDongusu\WFA_ForDongusu\bin\Debug\WFA_ForDongusu.pdb
+Z:\HD On My Mac\Yazılım\C#\10_WFA_ForDongusu\WFA_ForDongusu\obj\Debug\WFA_ForDongusu.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\10_WFA_ForDongusu\WFA_ForDongusu\obj\Debug\WFA_ForDongusu.Form1.resources
+Z:\HD On My Mac\Yazılım\C#\10_WFA_ForDongusu\WFA_ForDongusu\obj\Debug\WFA_ForDongusu.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\C#\10_WFA_ForDongusu\WFA_ForDongusu\obj\Debug\WFA_ForDongusu.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\C#\10_WFA_ForDongusu\WFA_ForDongusu\obj\Debug\WFA_ForDongusu.exe
+Z:\HD On My Mac\Yazılım\C#\10_WFA_ForDongusu\WFA_ForDongusu\obj\Debug\WFA_ForDongusu.pdb

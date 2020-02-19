@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.exe
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.pdb
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.exe
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.pdb
+Z:\HD On My Mac\Yazılım\OOP\3_WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.exe.config
+Z:\HD On My Mac\Yazılım\OOP\3_WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.exe
+Z:\HD On My Mac\Yazılım\OOP\3_WFA_HastaneRandevu\WFA_HastaneRandevu\bin\Debug\WFA_HastaneRandevu.pdb
+Z:\HD On My Mac\Yazılım\OOP\3_WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\OOP\3_WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.Form1.resources
+Z:\HD On My Mac\Yazılım\OOP\3_WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\OOP\3_WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\OOP\3_WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.exe
+Z:\HD On My Mac\Yazılım\OOP\3_WFA_HastaneRandevu\WFA_HastaneRandevu\obj\Debug\WFA_HastaneRandevu.pdb

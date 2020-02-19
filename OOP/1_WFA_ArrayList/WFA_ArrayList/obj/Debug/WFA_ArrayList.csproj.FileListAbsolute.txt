@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_ArrayList\WFA_ArrayList\bin\Debug\WFA_ArrayList.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_ArrayList\WFA_ArrayList\bin\Debug\WFA_ArrayList.exe
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_ArrayList\WFA_ArrayList\bin\Debug\WFA_ArrayList.pdb
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_ArrayList\WFA_ArrayList\obj\Debug\WFA_ArrayList.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_ArrayList\WFA_ArrayList\obj\Debug\WFA_ArrayList.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_ArrayList\WFA_ArrayList\obj\Debug\WFA_ArrayList.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_ArrayList\WFA_ArrayList\obj\Debug\WFA_ArrayList.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_ArrayList\WFA_ArrayList\obj\Debug\WFA_ArrayList.exe
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_ArrayList\WFA_ArrayList\obj\Debug\WFA_ArrayList.pdb

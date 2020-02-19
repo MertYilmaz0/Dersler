@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_KarakterIslemleri\WFA_KarakterIslemleri\bin\Debug\WFA_KarakterIslemleri.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_KarakterIslemleri\WFA_KarakterIslemleri\bin\Debug\WFA_KarakterIslemleri.exe
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_KarakterIslemleri\WFA_KarakterIslemleri\bin\Debug\WFA_KarakterIslemleri.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_KarakterIslemleri\WFA_KarakterIslemleri\obj\Debug\WFA_KarakterIslemleri.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_KarakterIslemleri\WFA_KarakterIslemleri\obj\Debug\WFA_KarakterIslemleri.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_KarakterIslemleri\WFA_KarakterIslemleri\obj\Debug\WFA_KarakterIslemleri.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_KarakterIslemleri\WFA_KarakterIslemleri\obj\Debug\WFA_KarakterIslemleri.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_KarakterIslemleri\WFA_KarakterIslemleri\obj\Debug\WFA_KarakterIslemleri.exe
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_KarakterIslemleri\WFA_KarakterIslemleri\obj\Debug\WFA_KarakterIslemleri.pdb

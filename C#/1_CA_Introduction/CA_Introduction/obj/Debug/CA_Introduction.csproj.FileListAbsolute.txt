@@ -1,0 +1,6 @@
+D:\Sınıflar\YMS 3137\2-Introduction\14.01\CA_Introduction\CA_Introduction\bin\Debug\CA_Introduction.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\14.01\CA_Introduction\CA_Introduction\bin\Debug\CA_Introduction.exe
+D:\Sınıflar\YMS 3137\2-Introduction\14.01\CA_Introduction\CA_Introduction\bin\Debug\CA_Introduction.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\14.01\CA_Introduction\CA_Introduction\obj\Debug\CA_Introduction.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\14.01\CA_Introduction\CA_Introduction\obj\Debug\CA_Introduction.exe
+D:\Sınıflar\YMS 3137\2-Introduction\14.01\CA_Introduction\CA_Introduction\obj\Debug\CA_Introduction.pdb

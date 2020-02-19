@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Abstraction\WFA_Abstraction\bin\Debug\WFA_Abstraction.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Abstraction\WFA_Abstraction\bin\Debug\WFA_Abstraction.exe
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Abstraction\WFA_Abstraction\bin\Debug\WFA_Abstraction.pdb
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.exe
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.pdb
+Z:\HD On My Mac\Yazılım\OOP\4_WFA_Abstraction\WFA_Abstraction\bin\Debug\WFA_Abstraction.exe.config
+Z:\HD On My Mac\Yazılım\OOP\4_WFA_Abstraction\WFA_Abstraction\bin\Debug\WFA_Abstraction.exe
+Z:\HD On My Mac\Yazılım\OOP\4_WFA_Abstraction\WFA_Abstraction\bin\Debug\WFA_Abstraction.pdb
+Z:\HD On My Mac\Yazılım\OOP\4_WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\OOP\4_WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.Form1.resources
+Z:\HD On My Mac\Yazılım\OOP\4_WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\OOP\4_WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\OOP\4_WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.exe
+Z:\HD On My Mac\Yazılım\OOP\4_WFA_Abstraction\WFA_Abstraction\obj\Debug\WFA_Abstraction.pdb

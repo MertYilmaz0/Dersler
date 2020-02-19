@@ -1,0 +1,10 @@
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_HataYonetimi\WFA_HataYonetimi\bin\Debug\WFA_HataYonetimi.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_HataYonetimi\WFA_HataYonetimi\bin\Debug\WFA_HataYonetimi.exe
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_HataYonetimi\WFA_HataYonetimi\bin\Debug\WFA_HataYonetimi.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_HataYonetimi\WFA_HataYonetimi\obj\Debug\WFA_HataYonetimi.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_HataYonetimi\WFA_HataYonetimi\obj\Debug\WFA_HataYonetimi.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_HataYonetimi\WFA_HataYonetimi\obj\Debug\WFA_HataYonetimi.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_HataYonetimi\WFA_HataYonetimi\obj\Debug\WFA_HataYonetimi.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_HataYonetimi\WFA_HataYonetimi\obj\Debug\WFA_HataYonetimi.exe
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_HataYonetimi\WFA_HataYonetimi\obj\Debug\WFA_HataYonetimi.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\21.01\WFA_HataYonetimi\WFA_HataYonetimi\obj\Debug\WFA_HataYonetimi.Form2.resources

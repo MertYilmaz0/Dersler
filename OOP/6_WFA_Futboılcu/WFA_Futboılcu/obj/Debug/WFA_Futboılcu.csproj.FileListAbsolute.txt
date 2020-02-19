@@ -1,0 +1,21 @@
+D:\Sınıflar\YMS 3137\3-OOP\18.02\WFA_Futboılcu\WFA_Futboılcu\bin\Debug\WFA_Futboılcu.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\18.02\WFA_Futboılcu\WFA_Futboılcu\bin\Debug\WFA_Futboılcu.exe
+D:\Sınıflar\YMS 3137\3-OOP\18.02\WFA_Futboılcu\WFA_Futboılcu\bin\Debug\WFA_Futboılcu.pdb
+D:\Sınıflar\YMS 3137\3-OOP\18.02\WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\18.02\WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\18.02\WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\18.02\WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\18.02\WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.exe
+D:\Sınıflar\YMS 3137\3-OOP\18.02\WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.pdb
+D:\Sınıflar\YMS 3137\3-OOP\18.02\WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.FutbolManagerMenu.resources
+Z:\HD On My Mac\Yazılım\OOP\6_WFA_Futboılcu\WFA_Futboılcu\bin\Debug\WFA_Futboılcu.exe.config
+Z:\HD On My Mac\Yazılım\OOP\6_WFA_Futboılcu\WFA_Futboılcu\bin\Debug\WFA_Futboılcu.exe
+Z:\HD On My Mac\Yazılım\OOP\6_WFA_Futboılcu\WFA_Futboılcu\bin\Debug\WFA_Futboılcu.pdb
+Z:\HD On My Mac\Yazılım\OOP\6_WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\OOP\6_WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.Form1.resources
+Z:\HD On My Mac\Yazılım\OOP\6_WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.FutbolManagerMenu.resources
+Z:\HD On My Mac\Yazılım\OOP\6_WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\OOP\6_WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\OOP\6_WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.exe
+Z:\HD On My Mac\Yazılım\OOP\6_WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.pdb
+Z:\HD On My Mac\Yazılım\OOP\6_WFA_Futboılcu\WFA_Futboılcu\obj\Debug\WFA_Futboılcu.FutbolcuBilgisi.resources

@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_SayisalLoto\WFA_SayisalLoto\bin\Debug\WFA_SayisalLoto.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_SayisalLoto\WFA_SayisalLoto\bin\Debug\WFA_SayisalLoto.exe
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_SayisalLoto\WFA_SayisalLoto\bin\Debug\WFA_SayisalLoto.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.exe
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\12_WFA_SayisalLoto\WFA_SayisalLoto\bin\Debug\WFA_SayisalLoto.exe.config
+Z:\HD On My Mac\Yazılım\C#\12_WFA_SayisalLoto\WFA_SayisalLoto\bin\Debug\WFA_SayisalLoto.exe
+Z:\HD On My Mac\Yazılım\C#\12_WFA_SayisalLoto\WFA_SayisalLoto\bin\Debug\WFA_SayisalLoto.pdb
+Z:\HD On My Mac\Yazılım\C#\12_WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\12_WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.Form1.resources
+Z:\HD On My Mac\Yazılım\C#\12_WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\C#\12_WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\C#\12_WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.exe
+Z:\HD On My Mac\Yazılım\C#\12_WFA_SayisalLoto\WFA_SayisalLoto\obj\Debug\WFA_SayisalLoto.pdb

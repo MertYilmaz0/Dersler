@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\2-Introduction\23.01\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\bin\Debug\WFA_SayiTahminOyunu.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\23.01\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\bin\Debug\WFA_SayiTahminOyunu.exe
+D:\Sınıflar\YMS 3137\2-Introduction\23.01\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\bin\Debug\WFA_SayiTahminOyunu.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\23.01\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\23.01\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\23.01\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\23.01\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\23.01\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.exe
+D:\Sınıflar\YMS 3137\2-Introduction\23.01\WFA_SayiTahminOyunu\WFA_SayiTahminOyunu\obj\Debug\WFA_SayiTahminOyunu.pdb

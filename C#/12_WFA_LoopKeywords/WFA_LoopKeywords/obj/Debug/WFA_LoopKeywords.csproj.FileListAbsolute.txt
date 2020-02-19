@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_LoopKeywords\WFA_LoopKeywords\bin\Debug\WFA_LoopKeywords.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_LoopKeywords\WFA_LoopKeywords\bin\Debug\WFA_LoopKeywords.exe
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_LoopKeywords\WFA_LoopKeywords\bin\Debug\WFA_LoopKeywords.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.exe
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.pdb

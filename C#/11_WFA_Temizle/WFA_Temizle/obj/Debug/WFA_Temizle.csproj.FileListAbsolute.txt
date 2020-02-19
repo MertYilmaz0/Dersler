@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Temizle\WFA_Temizle\bin\Debug\WFA_Temizle.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Temizle\WFA_Temizle\bin\Debug\WFA_Temizle.exe
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Temizle\WFA_Temizle\bin\Debug\WFA_Temizle.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Temizle\WFA_Temizle\obj\Debug\WFA_Temizle.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Temizle\WFA_Temizle\obj\Debug\WFA_Temizle.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Temizle\WFA_Temizle\obj\Debug\WFA_Temizle.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Temizle\WFA_Temizle\obj\Debug\WFA_Temizle.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Temizle\WFA_Temizle\obj\Debug\WFA_Temizle.exe
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Temizle\WFA_Temizle\obj\Debug\WFA_Temizle.pdb
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Temizle\WFA_Temizle\bin\Debug\WFA_Temizle.exe.config
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Temizle\WFA_Temizle\bin\Debug\WFA_Temizle.exe
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Temizle\WFA_Temizle\bin\Debug\WFA_Temizle.pdb
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Temizle\WFA_Temizle\obj\Debug\WFA_Temizle.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Temizle\WFA_Temizle\obj\Debug\WFA_Temizle.Form1.resources
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Temizle\WFA_Temizle\obj\Debug\WFA_Temizle.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Temizle\WFA_Temizle\obj\Debug\WFA_Temizle.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Temizle\WFA_Temizle\obj\Debug\WFA_Temizle.exe
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Temizle\WFA_Temizle\obj\Debug\WFA_Temizle.pdb

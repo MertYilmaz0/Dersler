@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Inheritance\WFA_Inheritance\bin\Debug\WFA_Inheritance.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Inheritance\WFA_Inheritance\bin\Debug\WFA_Inheritance.exe
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Inheritance\WFA_Inheritance\bin\Debug\WFA_Inheritance.pdb
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.exe
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Inheritance\WFA_Inheritance\obj\Debug\WFA_Inheritance.pdb

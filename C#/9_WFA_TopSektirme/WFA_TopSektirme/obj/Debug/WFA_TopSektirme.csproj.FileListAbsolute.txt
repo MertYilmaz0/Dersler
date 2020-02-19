@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.exe
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.exe
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.pdb
+Z:\HD On My Mac\Yazılım\C#\9_WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.exe.config
+Z:\HD On My Mac\Yazılım\C#\9_WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.exe
+Z:\HD On My Mac\Yazılım\C#\9_WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.pdb
+Z:\HD On My Mac\Yazılım\C#\9_WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\9_WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.Form1.resources
+Z:\HD On My Mac\Yazılım\C#\9_WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\C#\9_WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\C#\9_WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.exe
+Z:\HD On My Mac\Yazılım\C#\9_WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.pdb

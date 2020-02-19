@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_StringHazirMetotlar\WFA_StringHazirMetotlar\bin\Debug\WFA_StringHazirMetotlar.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_StringHazirMetotlar\WFA_StringHazirMetotlar\bin\Debug\WFA_StringHazirMetotlar.exe
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_StringHazirMetotlar\WFA_StringHazirMetotlar\bin\Debug\WFA_StringHazirMetotlar.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_StringHazirMetotlar\WFA_StringHazirMetotlar\obj\Debug\WFA_StringHazirMetotlar.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_StringHazirMetotlar\WFA_StringHazirMetotlar\obj\Debug\WFA_StringHazirMetotlar.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_StringHazirMetotlar\WFA_StringHazirMetotlar\obj\Debug\WFA_StringHazirMetotlar.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_StringHazirMetotlar\WFA_StringHazirMetotlar\obj\Debug\WFA_StringHazirMetotlar.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_StringHazirMetotlar\WFA_StringHazirMetotlar\obj\Debug\WFA_StringHazirMetotlar.exe
+D:\Sınıflar\YMS 3137\2-Introduction\06.02\WFA_StringHazirMetotlar\WFA_StringHazirMetotlar\obj\Debug\WFA_StringHazirMetotlar.pdb

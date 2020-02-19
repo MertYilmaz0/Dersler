@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Constructor\WFA_Constructor\bin\Debug\WFA_Constructor.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Constructor\WFA_Constructor\bin\Debug\WFA_Constructor.exe
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Constructor\WFA_Constructor\bin\Debug\WFA_Constructor.pdb
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.exe
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.pdb

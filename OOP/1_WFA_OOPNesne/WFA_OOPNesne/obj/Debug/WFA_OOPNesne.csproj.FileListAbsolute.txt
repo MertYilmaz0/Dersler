@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPNesne\WFA_OOPNesne\bin\Debug\WFA_OOPNesne.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPNesne\WFA_OOPNesne\bin\Debug\WFA_OOPNesne.exe
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPNesne\WFA_OOPNesne\bin\Debug\WFA_OOPNesne.pdb
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPNesne\WFA_OOPNesne\obj\Debug\WFA_OOPNesne.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPNesne\WFA_OOPNesne\obj\Debug\WFA_OOPNesne.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPNesne\WFA_OOPNesne\obj\Debug\WFA_OOPNesne.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPNesne\WFA_OOPNesne\obj\Debug\WFA_OOPNesne.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPNesne\WFA_OOPNesne\obj\Debug\WFA_OOPNesne.exe
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPNesne\WFA_OOPNesne\obj\Debug\WFA_OOPNesne.pdb

@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_AracEkleme\WFA_AracEkleme\bin\Debug\WFA_AracEkleme.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_AracEkleme\WFA_AracEkleme\bin\Debug\WFA_AracEkleme.exe
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_AracEkleme\WFA_AracEkleme\bin\Debug\WFA_AracEkleme.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_AracEkleme\WFA_AracEkleme\obj\Debug\WFA_AracEkleme.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_AracEkleme\WFA_AracEkleme\obj\Debug\WFA_AracEkleme.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_AracEkleme\WFA_AracEkleme\obj\Debug\WFA_AracEkleme.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_AracEkleme\WFA_AracEkleme\obj\Debug\WFA_AracEkleme.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_AracEkleme\WFA_AracEkleme\obj\Debug\WFA_AracEkleme.exe
+D:\Sınıflar\YMS 3137\2-Introduction\28.01\WFA_AracEkleme\WFA_AracEkleme\obj\Debug\WFA_AracEkleme.pdb
+Z:\HD On My Mac\Yazılım\C#\9_WFA_AracEkleme\WFA_AracEkleme\bin\Debug\WFA_AracEkleme.exe.config
+Z:\HD On My Mac\Yazılım\C#\9_WFA_AracEkleme\WFA_AracEkleme\bin\Debug\WFA_AracEkleme.exe
+Z:\HD On My Mac\Yazılım\C#\9_WFA_AracEkleme\WFA_AracEkleme\bin\Debug\WFA_AracEkleme.pdb
+Z:\HD On My Mac\Yazılım\C#\9_WFA_AracEkleme\WFA_AracEkleme\obj\Debug\WFA_AracEkleme.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\9_WFA_AracEkleme\WFA_AracEkleme\obj\Debug\WFA_AracEkleme.Form1.resources
+Z:\HD On My Mac\Yazılım\C#\9_WFA_AracEkleme\WFA_AracEkleme\obj\Debug\WFA_AracEkleme.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\C#\9_WFA_AracEkleme\WFA_AracEkleme\obj\Debug\WFA_AracEkleme.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\C#\9_WFA_AracEkleme\WFA_AracEkleme\obj\Debug\WFA_AracEkleme.exe
+Z:\HD On My Mac\Yazılım\C#\9_WFA_AracEkleme\WFA_AracEkleme\obj\Debug\WFA_AracEkleme.pdb

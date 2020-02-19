@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_OOPPersonelEkleme\WFA_OOPPersonelEkleme\bin\Debug\WFA_OOPPersonelEkleme.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_OOPPersonelEkleme\WFA_OOPPersonelEkleme\bin\Debug\WFA_OOPPersonelEkleme.exe
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_OOPPersonelEkleme\WFA_OOPPersonelEkleme\bin\Debug\WFA_OOPPersonelEkleme.pdb
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_OOPPersonelEkleme\WFA_OOPPersonelEkleme\obj\Debug\WFA_OOPPersonelEkleme.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_OOPPersonelEkleme\WFA_OOPPersonelEkleme\obj\Debug\WFA_OOPPersonelEkleme.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_OOPPersonelEkleme\WFA_OOPPersonelEkleme\obj\Debug\WFA_OOPPersonelEkleme.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_OOPPersonelEkleme\WFA_OOPPersonelEkleme\obj\Debug\WFA_OOPPersonelEkleme.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_OOPPersonelEkleme\WFA_OOPPersonelEkleme\obj\Debug\WFA_OOPPersonelEkleme.exe
+D:\Sınıflar\YMS 3137\3-OOP\11.02\WFA_OOPPersonelEkleme\WFA_OOPPersonelEkleme\obj\Debug\WFA_OOPPersonelEkleme.pdb

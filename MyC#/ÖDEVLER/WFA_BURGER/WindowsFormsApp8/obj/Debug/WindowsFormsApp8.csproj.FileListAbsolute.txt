@@ -1,0 +1,18 @@
+C:\Users\Mendel\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Mendel\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Mendel\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Mendel\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\Mendel\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Mendel\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Mendel\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Mendel\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Mendel\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+\\vmware-host\Shared Folders\Downloads\WFA_BURGER\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+\\vmware-host\Shared Folders\Downloads\WFA_BURGER\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+\\vmware-host\Shared Folders\Downloads\WFA_BURGER\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+\\vmware-host\Shared Folders\Downloads\WFA_BURGER\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\WFA_BURGER\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+\\vmware-host\Shared Folders\Downloads\WFA_BURGER\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+\\vmware-host\Shared Folders\Downloads\WFA_BURGER\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Downloads\WFA_BURGER\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+\\vmware-host\Shared Folders\Downloads\WFA_BURGER\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb

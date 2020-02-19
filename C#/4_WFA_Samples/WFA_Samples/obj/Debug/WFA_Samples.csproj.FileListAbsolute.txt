@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_Samples\WFA_Samples\bin\Debug\WFA_Samples.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_Samples\WFA_Samples\bin\Debug\WFA_Samples.exe
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_Samples\WFA_Samples\bin\Debug\WFA_Samples.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_Samples\WFA_Samples\obj\Debug\WFA_Samples.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_Samples\WFA_Samples\obj\Debug\WFA_Samples.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_Samples\WFA_Samples\obj\Debug\WFA_Samples.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_Samples\WFA_Samples\obj\Debug\WFA_Samples.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_Samples\WFA_Samples\obj\Debug\WFA_Samples.exe
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_Samples\WFA_Samples\obj\Debug\WFA_Samples.pdb

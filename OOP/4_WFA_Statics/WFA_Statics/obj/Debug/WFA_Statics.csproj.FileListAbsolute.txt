@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Statics\WFA_Statics\bin\Debug\WFA_Statics.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Statics\WFA_Statics\bin\Debug\WFA_Statics.exe
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Statics\WFA_Statics\bin\Debug\WFA_Statics.pdb
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Statics\WFA_Statics\obj\Debug\WFA_Statics.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Statics\WFA_Statics\obj\Debug\WFA_Statics.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Statics\WFA_Statics\obj\Debug\WFA_Statics.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Statics\WFA_Statics\obj\Debug\WFA_Statics.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Statics\WFA_Statics\obj\Debug\WFA_Statics.exe
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Statics\WFA_Statics\obj\Debug\WFA_Statics.pdb

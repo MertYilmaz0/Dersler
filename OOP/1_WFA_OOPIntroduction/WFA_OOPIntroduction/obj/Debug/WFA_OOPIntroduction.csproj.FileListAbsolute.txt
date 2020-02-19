@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPIntroduction\WFA_OOPIntroduction\bin\Debug\WFA_OOPIntroduction.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPIntroduction\WFA_OOPIntroduction\bin\Debug\WFA_OOPIntroduction.exe
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPIntroduction\WFA_OOPIntroduction\bin\Debug\WFA_OOPIntroduction.pdb
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPIntroduction\WFA_OOPIntroduction\obj\Debug\WFA_OOPIntroduction.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPIntroduction\WFA_OOPIntroduction\obj\Debug\WFA_OOPIntroduction.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPIntroduction\WFA_OOPIntroduction\obj\Debug\WFA_OOPIntroduction.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPIntroduction\WFA_OOPIntroduction\obj\Debug\WFA_OOPIntroduction.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPIntroduction\WFA_OOPIntroduction\obj\Debug\WFA_OOPIntroduction.exe
+D:\Sınıflar\YMS 3137\3-OOP\10.02\WFA_OOPIntroduction\WFA_OOPIntroduction\obj\Debug\WFA_OOPIntroduction.pdb

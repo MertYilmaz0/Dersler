@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_ClearAllControls\WFA_ClearAllControls\bin\Debug\WFA_ClearAllControls.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_ClearAllControls\WFA_ClearAllControls\bin\Debug\WFA_ClearAllControls.exe
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_ClearAllControls\WFA_ClearAllControls\bin\Debug\WFA_ClearAllControls.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_ClearAllControls\WFA_ClearAllControls\obj\Debug\WFA_ClearAllControls.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_ClearAllControls\WFA_ClearAllControls\obj\Debug\WFA_ClearAllControls.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_ClearAllControls\WFA_ClearAllControls\obj\Debug\WFA_ClearAllControls.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_ClearAllControls\WFA_ClearAllControls\obj\Debug\WFA_ClearAllControls.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_ClearAllControls\WFA_ClearAllControls\obj\Debug\WFA_ClearAllControls.exe
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_ClearAllControls\WFA_ClearAllControls\obj\Debug\WFA_ClearAllControls.pdb

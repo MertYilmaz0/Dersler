@@ -1,0 +1,17 @@
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_LocalAndGlobal\WFA_LocalAndGlobal\bin\Debug\WFA_LocalAndGlobal.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_LocalAndGlobal\WFA_LocalAndGlobal\bin\Debug\WFA_LocalAndGlobal.exe
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_LocalAndGlobal\WFA_LocalAndGlobal\bin\Debug\WFA_LocalAndGlobal.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_LocalAndGlobal\WFA_LocalAndGlobal\obj\Debug\WFA_LocalAndGlobal.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_LocalAndGlobal\WFA_LocalAndGlobal\obj\Debug\WFA_LocalAndGlobal.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_LocalAndGlobal\WFA_LocalAndGlobal\obj\Debug\WFA_LocalAndGlobal.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_LocalAndGlobal\WFA_LocalAndGlobal\obj\Debug\WFA_LocalAndGlobal.exe
+D:\Sınıflar\YMS 3137\2-Introduction\20.01\WFA_LocalAndGlobal\WFA_LocalAndGlobal\obj\Debug\WFA_LocalAndGlobal.pdb
+Z:\Downloads\WFA_LocalAndGlobal\WFA_LocalAndGlobal\bin\Debug\WFA_LocalAndGlobal.exe.config
+Z:\Downloads\WFA_LocalAndGlobal\WFA_LocalAndGlobal\bin\Debug\WFA_LocalAndGlobal.exe
+Z:\Downloads\WFA_LocalAndGlobal\WFA_LocalAndGlobal\bin\Debug\WFA_LocalAndGlobal.pdb
+Z:\Downloads\WFA_LocalAndGlobal\WFA_LocalAndGlobal\obj\Debug\WFA_LocalAndGlobal.csprojAssemblyReference.cache
+Z:\Downloads\WFA_LocalAndGlobal\WFA_LocalAndGlobal\obj\Debug\WFA_LocalAndGlobal.Form1.resources
+Z:\Downloads\WFA_LocalAndGlobal\WFA_LocalAndGlobal\obj\Debug\WFA_LocalAndGlobal.Properties.Resources.resources
+Z:\Downloads\WFA_LocalAndGlobal\WFA_LocalAndGlobal\obj\Debug\WFA_LocalAndGlobal.csproj.GenerateResource.cache
+Z:\Downloads\WFA_LocalAndGlobal\WFA_LocalAndGlobal\obj\Debug\WFA_LocalAndGlobal.exe
+Z:\Downloads\WFA_LocalAndGlobal\WFA_LocalAndGlobal\obj\Debug\WFA_LocalAndGlobal.pdb

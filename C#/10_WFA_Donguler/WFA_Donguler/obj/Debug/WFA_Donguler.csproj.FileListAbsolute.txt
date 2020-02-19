@@ -1,0 +1,20 @@
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_Donguler\WFA_Donguler\bin\Debug\WFA_Donguler.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_Donguler\WFA_Donguler\bin\Debug\WFA_Donguler.exe
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_Donguler\WFA_Donguler\bin\Debug\WFA_Donguler.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.exe
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\29.01\WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.Form2.resources
+Z:\HD On My Mac\Yazılım\C#\10_WFA_Donguler\WFA_Donguler\bin\Debug\WFA_Donguler.exe.config
+Z:\HD On My Mac\Yazılım\C#\10_WFA_Donguler\WFA_Donguler\bin\Debug\WFA_Donguler.exe
+Z:\HD On My Mac\Yazılım\C#\10_WFA_Donguler\WFA_Donguler\bin\Debug\WFA_Donguler.pdb
+Z:\HD On My Mac\Yazılım\C#\10_WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\10_WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.Form1.resources
+Z:\HD On My Mac\Yazılım\C#\10_WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.Form2.resources
+Z:\HD On My Mac\Yazılım\C#\10_WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\C#\10_WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\C#\10_WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.exe
+Z:\HD On My Mac\Yazılım\C#\10_WFA_Donguler\WFA_Donguler\obj\Debug\WFA_Donguler.pdb

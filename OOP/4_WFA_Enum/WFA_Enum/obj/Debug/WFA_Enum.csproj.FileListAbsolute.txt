@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Enum\WFA_Enum\bin\Debug\WFA_Enum.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Enum\WFA_Enum\bin\Debug\WFA_Enum.exe
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Enum\WFA_Enum\bin\Debug\WFA_Enum.pdb
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.exe
+D:\Sınıflar\YMS 3137\3-OOP\13.02\WFA_Enum\WFA_Enum\obj\Debug\WFA_Enum.pdb

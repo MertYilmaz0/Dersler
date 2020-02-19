@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RakamlarinOkunusu\WFA_RakamlarinOkunusu\bin\Debug\WFA_RakamlarinOkunusu.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RakamlarinOkunusu\WFA_RakamlarinOkunusu\bin\Debug\WFA_RakamlarinOkunusu.exe
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RakamlarinOkunusu\WFA_RakamlarinOkunusu\bin\Debug\WFA_RakamlarinOkunusu.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RakamlarinOkunusu\WFA_RakamlarinOkunusu\obj\Debug\WFA_RakamlarinOkunusu.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RakamlarinOkunusu\WFA_RakamlarinOkunusu\obj\Debug\WFA_RakamlarinOkunusu.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RakamlarinOkunusu\WFA_RakamlarinOkunusu\obj\Debug\WFA_RakamlarinOkunusu.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RakamlarinOkunusu\WFA_RakamlarinOkunusu\obj\Debug\WFA_RakamlarinOkunusu.exe
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RakamlarinOkunusu\WFA_RakamlarinOkunusu\obj\Debug\WFA_RakamlarinOkunusu.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\03.02\WFA_RakamlarinOkunusu\WFA_RakamlarinOkunusu\obj\Debug\WFA_RakamlarinOkunusu.csprojAssemblyReference.cache

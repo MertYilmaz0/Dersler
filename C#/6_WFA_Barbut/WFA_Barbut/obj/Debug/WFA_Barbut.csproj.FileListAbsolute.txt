@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_Barbut\WFA_Barbut\bin\Debug\WFA_Barbut.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_Barbut\WFA_Barbut\bin\Debug\WFA_Barbut.exe
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_Barbut\WFA_Barbut\bin\Debug\WFA_Barbut.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.exe
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.pdb
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_Barbut\WFA_Barbut\bin\Debug\WFA_Barbut.exe.config
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_Barbut\WFA_Barbut\bin\Debug\WFA_Barbut.exe
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_Barbut\WFA_Barbut\bin\Debug\WFA_Barbut.pdb
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.Form1.resources
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.Properties.Resources.resources
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.exe
+\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\6_WFA_Barbut\WFA_Barbut\obj\Debug\WFA_Barbut.pdb

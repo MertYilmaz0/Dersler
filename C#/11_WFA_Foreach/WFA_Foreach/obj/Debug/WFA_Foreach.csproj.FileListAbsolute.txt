@@ -1,0 +1,20 @@
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Foreach\WFA_Foreach\bin\Debug\WFA_Foreach.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Foreach\WFA_Foreach\bin\Debug\WFA_Foreach.exe
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Foreach\WFA_Foreach\bin\Debug\WFA_Foreach.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.exe
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\30.01\WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.Form2.resources
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Foreach\WFA_Foreach\bin\Debug\WFA_Foreach.exe.config
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Foreach\WFA_Foreach\bin\Debug\WFA_Foreach.exe
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Foreach\WFA_Foreach\bin\Debug\WFA_Foreach.pdb
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.Form1.resources
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.Form2.resources
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.exe
+Z:\HD On My Mac\Yazılım\C#\11_WFA_Foreach\WFA_Foreach\obj\Debug\WFA_Foreach.pdb

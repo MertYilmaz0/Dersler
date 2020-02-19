@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_Polymorphism\WFA_Polymorphism\bin\Debug\WFA_Polymorphism.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_Polymorphism\WFA_Polymorphism\bin\Debug\WFA_Polymorphism.exe
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_Polymorphism\WFA_Polymorphism\bin\Debug\WFA_Polymorphism.pdb
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_Polymorphism\WFA_Polymorphism\obj\Debug\WFA_Polymorphism.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_Polymorphism\WFA_Polymorphism\obj\Debug\WFA_Polymorphism.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_Polymorphism\WFA_Polymorphism\obj\Debug\WFA_Polymorphism.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_Polymorphism\WFA_Polymorphism\obj\Debug\WFA_Polymorphism.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_Polymorphism\WFA_Polymorphism\obj\Debug\WFA_Polymorphism.exe
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_Polymorphism\WFA_Polymorphism\obj\Debug\WFA_Polymorphism.pdb

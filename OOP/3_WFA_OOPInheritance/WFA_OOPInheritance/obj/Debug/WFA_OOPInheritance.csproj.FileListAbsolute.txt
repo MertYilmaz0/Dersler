@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_OOPInheritance\WFA_OOPInheritance\bin\Debug\WFA_OOPInheritance.exe.config
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_OOPInheritance\WFA_OOPInheritance\bin\Debug\WFA_OOPInheritance.exe
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_OOPInheritance\WFA_OOPInheritance\bin\Debug\WFA_OOPInheritance.pdb
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_OOPInheritance\WFA_OOPInheritance\obj\Debug\WFA_OOPInheritance.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_OOPInheritance\WFA_OOPInheritance\obj\Debug\WFA_OOPInheritance.Form1.resources
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_OOPInheritance\WFA_OOPInheritance\obj\Debug\WFA_OOPInheritance.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_OOPInheritance\WFA_OOPInheritance\obj\Debug\WFA_OOPInheritance.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_OOPInheritance\WFA_OOPInheritance\obj\Debug\WFA_OOPInheritance.exe
+D:\Sınıflar\YMS 3137\3-OOP\12.02\WFA_OOPInheritance\WFA_OOPInheritance\obj\Debug\WFA_OOPInheritance.pdb

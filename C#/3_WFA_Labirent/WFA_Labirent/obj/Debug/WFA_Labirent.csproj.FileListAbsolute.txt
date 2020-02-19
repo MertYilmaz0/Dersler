@@ -1,0 +1,27 @@
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.exe
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.exe
+D:\Sınıflar\YMS 3137\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.pdb
+Z:\HD On My Mac\Yazılım\C#\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.exe.config
+Z:\HD On My Mac\Yazılım\C#\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.exe
+Z:\HD On My Mac\Yazılım\C#\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.pdb
+Z:\HD On My Mac\Yazılım\C#\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.Form1.resources
+Z:\HD On My Mac\Yazılım\C#\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\C#\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\C#\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.exe
+Z:\HD On My Mac\Yazılım\C#\2-Introduction\16.01\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.pdb
+Z:\HD On My Mac\Yazılım\C#\3_WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.exe.config
+Z:\HD On My Mac\Yazılım\C#\3_WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.exe
+Z:\HD On My Mac\Yazılım\C#\3_WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.pdb
+Z:\HD On My Mac\Yazılım\C#\3_WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\3_WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.Form1.resources
+Z:\HD On My Mac\Yazılım\C#\3_WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\C#\3_WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\C#\3_WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.exe
+Z:\HD On My Mac\Yazılım\C#\3_WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.pdb

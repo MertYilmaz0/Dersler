@@ -1,0 +1,37 @@
+--Kütüphane
+	--Ödünç kitap alınabilmeli. Ödünç alınan kitapların son teslim tarihi olmalı. Kullanıcı tanımlanmalı
+	
+	--Ahmet Ayzan
+	--Şeyma
+	
+--ETicaret
+	--Ürünün kampanyaları olacak. 
+		-- %10 
+	-Reyhan
+	-Esat
+	-Bilal
+--Sinema
+	--Sinema salonu. Filmler seanslara göre ayrılmalı. 
+	-İhsan
+	-Cem
+
+--Kariyer veritabanı
+	--Havva
+	-Emirhan
+--Hotel
+		--Üç ay öncesinde yapılan rezervasyonlarda %20
+		--iki ay önceki yapılan rezervasyonlarda %10 
+		--bir ay önceki yapılan rezervasyonlarda %5
+	-Mert
+
+--Tur Rezervasyon
+	--Ödemeler döbiz üzerinden gerçekleşebilsin. Hem döviz tanımlanabilmesi hem de tanımlanan döviz Tur fiyatı olarak atanabilmeli.
+
+	-Gülsen
+	-Elçin
+--Hastane
+	--sorgulamalarda hangi hastayı hangi doktor  tedavi etmiş hangi bölümde kaç hasta tedavi edilmiş gibi raporlamalar yapılabilmeli.
+	-Ahmet Erden
+
+13 ocak teslim tarihi
+-------------------------------

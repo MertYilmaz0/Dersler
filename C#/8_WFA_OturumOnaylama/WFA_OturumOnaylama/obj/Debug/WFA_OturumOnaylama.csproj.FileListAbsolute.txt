@@ -1,0 +1,18 @@
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_OturumOnaylama\WFA_OturumOnaylama\bin\Debug\WFA_OturumOnaylama.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_OturumOnaylama\WFA_OturumOnaylama\bin\Debug\WFA_OturumOnaylama.exe
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_OturumOnaylama\WFA_OturumOnaylama\bin\Debug\WFA_OturumOnaylama.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_OturumOnaylama\WFA_OturumOnaylama\obj\Debug\WFA_OturumOnaylama.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_OturumOnaylama\WFA_OturumOnaylama\obj\Debug\WFA_OturumOnaylama.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_OturumOnaylama\WFA_OturumOnaylama\obj\Debug\WFA_OturumOnaylama.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_OturumOnaylama\WFA_OturumOnaylama\obj\Debug\WFA_OturumOnaylama.exe
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_OturumOnaylama\WFA_OturumOnaylama\obj\Debug\WFA_OturumOnaylama.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\27.01\WFA_OturumOnaylama\WFA_OturumOnaylama\obj\Debug\WFA_OturumOnaylama.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\8_WFA_OturumOnaylama\WFA_OturumOnaylama\bin\Debug\WFA_OturumOnaylama.exe.config
+Z:\HD On My Mac\Yazılım\C#\8_WFA_OturumOnaylama\WFA_OturumOnaylama\bin\Debug\WFA_OturumOnaylama.exe
+Z:\HD On My Mac\Yazılım\C#\8_WFA_OturumOnaylama\WFA_OturumOnaylama\bin\Debug\WFA_OturumOnaylama.pdb
+Z:\HD On My Mac\Yazılım\C#\8_WFA_OturumOnaylama\WFA_OturumOnaylama\obj\Debug\WFA_OturumOnaylama.csprojAssemblyReference.cache
+Z:\HD On My Mac\Yazılım\C#\8_WFA_OturumOnaylama\WFA_OturumOnaylama\obj\Debug\WFA_OturumOnaylama.Form1.resources
+Z:\HD On My Mac\Yazılım\C#\8_WFA_OturumOnaylama\WFA_OturumOnaylama\obj\Debug\WFA_OturumOnaylama.Properties.Resources.resources
+Z:\HD On My Mac\Yazılım\C#\8_WFA_OturumOnaylama\WFA_OturumOnaylama\obj\Debug\WFA_OturumOnaylama.csproj.GenerateResource.cache
+Z:\HD On My Mac\Yazılım\C#\8_WFA_OturumOnaylama\WFA_OturumOnaylama\obj\Debug\WFA_OturumOnaylama.exe
+Z:\HD On My Mac\Yazılım\C#\8_WFA_OturumOnaylama\WFA_OturumOnaylama\obj\Debug\WFA_OturumOnaylama.pdb

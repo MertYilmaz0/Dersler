@@ -1,0 +1,9 @@
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.exe
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_McAdam\WFA_McAdam\bin\Debug\WFA_McAdam.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.exe
+D:\Sınıflar\YMS 3137\2-Introduction\04.02\WFA_McAdam\WFA_McAdam\obj\Debug\WFA_McAdam.pdb

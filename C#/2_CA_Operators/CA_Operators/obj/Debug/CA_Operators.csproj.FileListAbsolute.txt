@@ -1,0 +1,6 @@
+D:\Sınıflar\YMS 3137\2-Introduction\15.01\CA_Operators\CA_Operators\bin\Debug\CA_Operators.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\15.01\CA_Operators\CA_Operators\bin\Debug\CA_Operators.exe
+D:\Sınıflar\YMS 3137\2-Introduction\15.01\CA_Operators\CA_Operators\bin\Debug\CA_Operators.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\15.01\CA_Operators\CA_Operators\obj\Debug\CA_Operators.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\15.01\CA_Operators\CA_Operators\obj\Debug\CA_Operators.exe
+D:\Sınıflar\YMS 3137\2-Introduction\15.01\CA_Operators\CA_Operators\obj\Debug\CA_Operators.pdb

@@ -1,0 +1,10 @@
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_KararYapilari\WFA_KararYapilari\bin\Debug\WFA_KararYapilari.exe.config
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_KararYapilari\WFA_KararYapilari\bin\Debug\WFA_KararYapilari.exe
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_KararYapilari\WFA_KararYapilari\bin\Debug\WFA_KararYapilari.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_KararYapilari\WFA_KararYapilari\obj\Debug\WFA_KararYapilari.csprojAssemblyReference.cache
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_KararYapilari\WFA_KararYapilari\obj\Debug\WFA_KararYapilari.Form1.resources
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_KararYapilari\WFA_KararYapilari\obj\Debug\WFA_KararYapilari.Properties.Resources.resources
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_KararYapilari\WFA_KararYapilari\obj\Debug\WFA_KararYapilari.csproj.GenerateResource.cache
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_KararYapilari\WFA_KararYapilari\obj\Debug\WFA_KararYapilari.exe
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_KararYapilari\WFA_KararYapilari\obj\Debug\WFA_KararYapilari.pdb
+D:\Sınıflar\YMS 3137\2-Introduction\22.01\WFA_KararYapilari\WFA_KararYapilari\obj\Debug\WFA_KararYapilari.Form2.resources

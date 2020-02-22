@@ -1,8 +1,0 @@
-Bilge Adam Akademinin kapisindan ileri yolun ortasina gelene kadar yürü
-90 derece sola dön
-üzerinde bulundugun caddenin ismi A caddesi.
-A caddesi boyunca yolu ortalayarak ayni istikamette A caddesi bitene kadar yürü
-Üzerine çiktigin cadde B caddesi
-B caddesinde ortala 90 derece saga dön
-B caddesiden kaldirimdan yürüyecek sekilde ayni istikamette boga heykelini görünceye kadar yürü.
-Boga heykeline çarpmaya 1 metre kala dur.

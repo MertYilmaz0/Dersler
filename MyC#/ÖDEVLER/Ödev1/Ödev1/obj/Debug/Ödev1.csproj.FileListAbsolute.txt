@@ -1,6 +1,0 @@
-\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\Ödev1\Ödev1\obj\Debug\Ödev1.csprojAssemblyReference.cache
-\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\Ödev1\Ödev1\bin\Debug\Ödev1.exe.config
-\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\Ödev1\Ödev1\bin\Debug\Ödev1.exe
-\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\Ödev1\Ödev1\bin\Debug\Ödev1.pdb
-\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\Ödev1\Ödev1\obj\Debug\Ödev1.exe
-\\vmware-host\Shared Folders\HD On My Mac\Yazılım\C#\Ödev1\Ödev1\obj\Debug\Ödev1.pdb

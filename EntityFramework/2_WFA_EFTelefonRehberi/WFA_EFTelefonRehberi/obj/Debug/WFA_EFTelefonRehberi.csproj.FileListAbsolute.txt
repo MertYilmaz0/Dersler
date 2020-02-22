@@ -1,0 +1,14 @@
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\bin\Debug\WFA_EFTelefonRehberi.exe.config
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\bin\Debug\WFA_EFTelefonRehberi.exe
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\bin\Debug\WFA_EFTelefonRehberi.pdb
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\bin\Debug\EntityFramework.dll
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\bin\Debug\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\bin\Debug\EntityFramework.xml
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\bin\Debug\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\obj\Debug\WFA_EFTelefonRehberi.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\obj\Debug\WFA_EFTelefonRehberi.Form1.resources
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\obj\Debug\WFA_EFTelefonRehberi.Properties.Resources.resources
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\obj\Debug\WFA_EFTelefonRehberi.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\obj\Debug\WFA_EFTelefonRehberi.csproj.CopyComplete
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\obj\Debug\WFA_EFTelefonRehberi.exe
+\\vmware-host\Shared Folders\Downloads\YMS3137-master\EntityFramework\20.02\WFA_EFTelefonRehberi\WFA_EFTelefonRehberi\obj\Debug\WFA_EFTelefonRehberi.pdb
